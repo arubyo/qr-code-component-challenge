@@ -22,7 +22,7 @@ Desktop Screenshot
 ![](./images/final-desktop.png)
 
 Mobile Screenshot
-![](./images/final-mobile.png)
+![](./images/final-mobile.png| width=300)
 
 
 ### Links
