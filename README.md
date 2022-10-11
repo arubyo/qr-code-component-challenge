@@ -44,8 +44,8 @@ Mobile Screenshot
 
 ### Useful resources
 
-- [Box Shadow resource 1](https://box-shadow.dev/) - This helped me create the box shadow. Website is very nicely designed and easy to use.
-
+- [Box Shadow Resource 1](https://box-shadow.dev/) - This helped me create the box shadow. Website is very nicely designed and easy to use.
+- [Bootstrap Resource 2](https://getbootstrap.com/docs/3.4/getting-started/) - CDN 
 
 ## Acknowledgments
 - Everyone taking the time to get better every single day
