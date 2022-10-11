@@ -1,56 +1,64 @@
-*{
+* {
     font-family: 'Outfit', sans-serif;
-
 }
-body{
+
+body {
     background-color: hsl(212, 45%, 89%);
 }
+
 .outer-container {
     display: flex;
     justify-content: center;
     align-items: center;
- 
-    padding:20px;
+
+    padding: 20px;
 }
 
-.qr-container{
+.qr-container {
     margin-top: 20vh;
     margin-bottom: 20vh;
-    box-shadow: 7px 9px 10px -9px rgba(0,0,0,0.1);
+    box-shadow: 7px 9px 10px -9px rgba(0, 0, 0, 0.1);
     border-radius: 16px;
     background-color: #fff;
     min-height: 495px;
     min-width: 320px;
     max-width: 320px;
-    
+
 }
-.qr-bg{
+
+.qr-bg {
     background-image: url('./images/image-qr-code.png');
     height: 280px;
-    background-position: center; 
-    background-repeat: no-repeat; 
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
     margin: 15px;
     border-radius: 16px;
 }
 
-.qr-text{
+.qr-text {
     padding: 18px;
 }
 
-.heading{
+.heading {
     color: hsl(218, 44%, 22%);
     font-size: 22px;
     font-weight: 700;
     text-align: center;
 }
 
-.leading{
-
+.leading {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     text-align: center;
     padding: 10px;
 }
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
