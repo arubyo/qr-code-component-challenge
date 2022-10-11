@@ -19,9 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 Desktop Screenshot
-![](./final-desktop.png)
+![](./images/final-desktop.png)
+
 Mobile Screenshot
-![](./final-mobile.png)
+![](./images/final-mobile.png)
 
 
 ### Links
